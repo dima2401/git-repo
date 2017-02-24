@@ -1,3 +1,4 @@
+print('     __     ')
 print('    /  \\    ')
 print('   /    \\   ')
 print('  /      \\  ')
